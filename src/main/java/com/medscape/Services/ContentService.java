@@ -1,8 +1,8 @@
-package com.example.demo.Services;
+package com.medscape.Services;
 
 
-import com.example.demo.Models.Content;
-import com.example.demo.Repositories.ContentRepository;
+import com.medscape.Models.Content;
+import com.medscape.Repositories.ContentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

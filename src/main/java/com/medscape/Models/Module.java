@@ -1,4 +1,4 @@
-package com.example.demo.models;
+package com.medscape.Models;
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package com.example.demo.Controllers;
+package com.medscape.Controllers;
 
 
-import com.example.demo.Models.Content;
-import com.example.demo.Services.ContentService;
+import com.medscape.Models.Content;
+import com.medscape.Services.ContentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

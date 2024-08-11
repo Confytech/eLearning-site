@@ -1,8 +1,8 @@
-package com.example.demo.Controllers;
+package com.medscape.Controllers;
 
 
-import com.example.demo.Models.User;
-import com.example.demo.Services.AuthService;
+import com.medscape.Models.User;
+import com.medscape.Services.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

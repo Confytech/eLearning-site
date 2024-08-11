@@ -1,8 +1,8 @@
-package com.example.demo.Services;
+package com.medscape.Services;
 
 
-import com.example.demo.Models.User;
-import com.example.demo.Repositories.UserRepository;
+import com.medscape.Models.User;
+import com.medscape.Repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

@@ -1,7 +1,7 @@
-package com.example.demo.Repositories;
+package com.medscape.Repositories;
 
 
-import com.example.demo.Models.User;
+import com.medscape.Models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface UserRepository extends JpaRepository<User, Long> {

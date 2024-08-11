@@ -1,7 +1,7 @@
-package com.example.demo.Repositories;
+package com.medscape.Repositories;
 
 
-import com.example.demo.Models.Content;
+import com.medscape.Models.Content;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ContentRepository extends JpaRepository<Content, Long> {

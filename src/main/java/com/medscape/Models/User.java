@@ -1,4 +1,4 @@
-package com.example.demo.Models;
+package com.medscape.Models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
